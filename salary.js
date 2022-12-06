@@ -15,7 +15,8 @@ if(taxedAmount>=24,000){
 
          netsal=(taxedAmount-ftax-ftax2-ftax3)
 }
-     
+
+
 // let div=document.getElementById('hl')//querySelector
 // // let div=document.querySelector('img[height:78]')
 // let pr=`<P style="color:red;"> Netsalary:${netsal}</P>`
